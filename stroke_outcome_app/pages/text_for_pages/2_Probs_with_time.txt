@@ -1,0 +1,6 @@
+# To be printed as markdown on the demo page
+# in the container for probability vs time.  
+# ---------------------------------------------------------------------
+
+The mRS probability distributions are a concoction of [various sources of data](https://samuel-book.github.io/samuel-2/outcome_modelling/mRS_datasets_full.html).
+The boundaries between the mRS bins follow [the shape of a logistic function](https://samuel-book.github.io/samuel-2/outcome_modelling/mRS_outcomes_maths.html).

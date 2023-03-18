@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:stroke-optimist/streamlit_lifetime_stroke.git
+	branch = main
+	commit = 599458fd0b33cd89f123ea9167675961a1f72f9f
+	parent = 768bb6b8d7caf21483c1b530f1e9e4a34be28a62
+	method = merge
+	cmdver = 0.4.5

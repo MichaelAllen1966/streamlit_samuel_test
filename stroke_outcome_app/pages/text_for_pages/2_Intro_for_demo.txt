@@ -1,0 +1,4 @@
+# To be printed as markdown on the demo page. 
+# ---------------------------------------------------------------------
+
+In this demo we will compare the expected outcomes for two cases. 
